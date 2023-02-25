@@ -1,3 +1,3 @@
 # Pytorch-Tutorial
 
-I am using this repository to practice Github and Pytorch. Keep trying until things become simple.
+The reporsitory provide a starting notebooks to understand the working of Pytorch.
